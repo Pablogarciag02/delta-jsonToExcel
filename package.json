@@ -1,0 +1,23 @@
+{
+  "name": "pdfservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Eugenio García",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "edge": "^7.10.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "fs": "^0.0.1-security",
+    "jspdf": "^2.5.1",
+    "pdfkit": "^0.13.0",
+    "puppeteer": "^19.5.2",
+    "xlsx": "^0.18.5",
+    "xlsx-populate": "^1.21.0"
+  }
+}
